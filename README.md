@@ -1,6 +1,3 @@
-# Predictive-Analytics-on-Medical-Insurance-Cost-Using-Machine-Learning-and-Statistical-Methods
-This project applies end-to-end Predictive Analytics techniques to a real-world Health Insurance dataset (15,000 rows, 13 features). The analysis includes Regression, Classification, Clustering, PCA, Neural Networks, Cross-Validation, and Association Rules, following the complete syllabus of Predictive Analytics.
-
 # Health Insurance Claim Prediction - Comprehensive ML Project
 
 ## Project Overview
@@ -151,5 +148,4 @@ Created as part of Machine Learning course project.
 ## License
 
 This project is for educational purposes.
-
 
